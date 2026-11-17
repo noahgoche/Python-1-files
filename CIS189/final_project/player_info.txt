@@ -1,0 +1,6 @@
+TIMESTAMP: 2026:08/07/26:04:46:01
+Name: John Doe
+Health: 125.0
+Weapon: Sword Range: 4.0 Damage: 6.0
+Inventory items: Healing Potion,  Shield,  Map
+Kingdom: Iowa
